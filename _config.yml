@@ -1,8 +1,6 @@
 title: Hyun's Blog
 description: Bits and pieces of my life. 
-theme: just-the-docs
+theme: nil 
 
 url: https://hkim06.github.io
 
-aux_links:
-  Template Repository: https://github.com/just-the-docs/just-the-docs-template
