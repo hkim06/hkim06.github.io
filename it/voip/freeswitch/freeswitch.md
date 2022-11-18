@@ -1,10 +1,9 @@
 ---
 title: Freeswitch
 layout: default
-parent: Opensource Projects
-grand_parent: VoIP
+parent: VoIP
+grand_parent: I.T.
 nav_order: 1 
-has_children: true
 ---
 Freeswitch
 
