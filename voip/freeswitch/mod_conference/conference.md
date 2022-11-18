@@ -4,5 +4,7 @@ layout: default
 parent: Freeswitch
 grand_parent: VoIP
 ---
-mod_conference
+[mod_conference]
 
+
+[mod_conference]: https://freeswitch.org/confluence/display/FREESWITCH/mod_conference
