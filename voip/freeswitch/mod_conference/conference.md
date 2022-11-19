@@ -9,4 +9,4 @@ grand_parent: VoIP
 
 [mod_conference]: https://freeswitch.org/confluence/display/FREESWITCH/mod_conference
 
-![](../../assets/images/freeswitch.jpg)
+![](../../../assets/images/freeswitch.jpg)
