@@ -2,7 +2,7 @@
 title: ACID 
 layout: default
 parent: Microservices
-grand parent: Software Architecture
+grand_parent: Software Architecture
 ---
 
 ACID is an an acronym outlining the key properties of database transactions. 
