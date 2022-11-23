@@ -7,6 +7,8 @@ grand_parent: Software Architecture
 
 [Microservice Archtecture]
 
+Architect an application as a collection of loosely coupled, services
+
 Benefits
 - Enables the continous delivery and deployment of large, complex applications
 - Better testability

@@ -7,6 +7,8 @@ grand_parent: Software Architecture
 
 [Database per service]
 
+Keep each microservice's persisent data private to that service and accessible only via its API. A service's transactions only involve its database. 
+
 Benefits
 - Helps ensure that services are loosely coupled. 
 - Each service can use the type of database that is best suited to its needs.

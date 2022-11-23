@@ -6,6 +6,8 @@ parent: Software Architecture
 
 [Monolithic Archtecture]
 
+Architect an application as a single deployable unit
+
 Benefits
 - Simple to develop
 - Simple to deploy
