@@ -1,5 +1,5 @@
 ---
-title: Monolithic Architecture
+title: Microservice Architecture
 layout: default
 parent: Microservices
 grand_parent: Software Architecture
